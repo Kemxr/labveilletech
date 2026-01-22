@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kemxr.github.io/labveilletech/'
 languageCode = 'en-us'
 title = 'Marc Bouriot'
 theme = 'rusty-typewriter-main'
