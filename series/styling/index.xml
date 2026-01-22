@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Styling on Marc Bouriot</title><link>https://example.org/series/styling/</link><description>Recent content in Styling on Marc Bouriot</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 23:00:00 -0300</lastBuildDate><atom:link href="https://example.org/series/styling/index.xml" rel="self" type="application/rss+xml"/><item><title>Dark Theme</title><link>https://example.org/features/dark-mode/</link><pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate><guid>https://example.org/features/dark-mode/</guid><description>&lt;p&gt;You can change the current theme between dark and light mode by using the switcher icon at the right of the navbar.&lt;/p&gt;
+&lt;p&gt;The colors tweaked by the theme change are ideally defined in a non bundled CSS file (to optimize caching, since the theming is expected to change more than the rest) under the &lt;code&gt;:root[color-scheme^='dark/light']&lt;/code&gt; selector. Should you want to adjust them, a simple stylesheet rules override should suffice. You can read about it in customization.&lt;/p&gt;</description></item><item><title>Showcase</title><link>https://example.org/posts/showcase/</link><pubDate>Mon, 24 Mar 2025 23:00:00 -0300</pubDate><guid>https://example.org/posts/showcase/</guid><description>&lt;p&gt;This page focuses on what you can do in terms of markdown syntax. Here you can see which and how each of the components are rendered to HTML in terms of structure and styling.&lt;/p&gt;
+&lt;h1 id="the-use-of-headings"&gt;The use of Headings&lt;/h1&gt;
+&lt;p&gt;Headings are larger text intended for section titles, and they vary in size from 1 to 5 (bigger to smaller) as follows:&lt;/p&gt;
+&lt;h1 id="heading-1"&gt;Heading 1&lt;/h1&gt;
+&lt;h2 id="heading-2"&gt;Heading 2&lt;/h2&gt;
+&lt;h3 id="heading-3"&gt;Heading 3&lt;/h3&gt;
+&lt;h4 id="heading-4"&gt;Heading 4&lt;/h4&gt;
+&lt;h6 id="heading-5"&gt;Heading 5&lt;/h6&gt;
+&lt;h2 id="paragraphs"&gt;Paragraphs&lt;/h2&gt;
+&lt;p&gt;Paragraphs are containers for standard page content. Its font is defined and configurable via CSS as mentioned in &lt;a href="https://example.org/features/customization"&gt;customization&lt;/a&gt; post.&lt;/p&gt;</description></item></channel></rss>
