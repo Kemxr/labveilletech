@@ -1,15 +1,11 @@
 home:
   image: 'images/seven.jpg'
-  greetings: 'Changer dans le fichier content.yaml'
-  text: 'The definitive, configurable, customizable, old fashioned rusty coloured theme for web writers and readers.'
+  greetings: 'Bienvenue sur mon blog personnel !'
+  text: 'Tu retrouveras ici mes pensées et découvertes sur le monde des interfaces utilisateur, du design et des jeux vidéos.'
 side:
   home:
-  - content: 'If you like the theme make sure to give the repo a star!'
-    imagePath: 'images/gh_source.png'
-    imageHref: 'https://github.com/math-queiroz/rusty-typewriter'
-    imageWidth: '100%'
-  - title: 'Side Pane Features'
-    content: 'There are lots of features regarding the side pane, check [the docs]({{< ref "features/static-content" >}}) for info.'
+  - title: 'Pour aller plus loin !'
+    content: 'N\''hésite pas à explorer les différentes pages de mon blog pour découvrir plus de contenu intéressant !'
   single:
   - title: 'Static Content'
     content: 'Single pages (a.k.a. blog posts) can also have static content like so!'
