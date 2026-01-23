@@ -13,6 +13,10 @@ Je m’intéresse pas mal à l'UX/UI mais je suis aussi un grand joueur de jeux 
 
 Les menus surchargés et HUD encombrés appartiennent au passé. Les studios optent désormais pour des designs épurés qui ne présentent que l’essentiel au bon moment comme dans “*Elden Ring*” ou “*Ghost of Tsushima*”. Cette approche réduit drastiquement la charge cognitive et permet aux joueurs de rester pleinement concentrés sur l’action. Le flat design moderne, associé à des animations simple et une iconographie immédiatement compréhensible, crée des expériences fluide. Pour un designer de jeux, cela impose de répondre à une question fondamentale pour chaque écran : quelles sont les trois informations absolument prioritaires et comment les rendre lisibles en un clin d’œil, même en plein combat ?
 
+“*Image tiré du jeu Ghost of Tsushima*”
+
+![Ghost of Tsushima](/labveilletech/images/Gaming_UI.png)
+
 ### Layouts adaptatifs et responsive
 
 Aujourd’hui, les joueurs naviguent entre smartphones, tablettes, consoles et casques VR. Les interfaces doivent donc s’adapter automatiquement à toutes les tailles d’écran, résolutions et orientations sans jamais perdre en cohérence. Les bonnes pratiques identifiées insistent sur une expérience cross-platform partout : les joueurs retrouvent instantanément leurs repères, qu’ils soient sur mobile ou en 4K comme par exemple “*Team Fight Tactics*”, “*Hearthstone*” où même “*Diablo Immortal*”. Ce défi oblige les designers à créer des systèmes modulaires qui préservent une identité visuelle forte tout en s’ajustant parfaitement à chaque contexte d’utilisation, du petit écran tactile à l’immense dalle incurvée.
@@ -33,6 +37,6 @@ Ces cinq tendances forment un écosystème cohérent où minimalisme, adaptabili
 
 L'article sur les 5 tendances Game UI/UX 2025 de GameCrio Studios m’intéresse car elle cible mon domaine : concevoir des interfaces gaming immersives, adaptatives et accessibles. Les tendances (minimalisme pour réduire la charge cognitive, layouts responsive cross-device, personnalisation des parcours, navigation vocale/gestuelle, accessibilité prioritaire) montrent comment éviter qu’un jeu visuellement beau échoue par une UI confuse.
 
-Pour mon parcours, c’est utile dès maintenant pour prototyper des HUD gaming en Figma (minimalisme, adaptabilité mobile/console) et en pro pendant le développement pour fidéliser tous les profils joueurs via personnalisation et inclusivité.
+Pour mon parcours, ce sera utile le moment ou je me spécialiserai dans le domaine des interfaces des jeux viédos pour prototyper des HUD gaming en Figma (minimalisme, adaptabilité mobile/console) et en pro pendant le développement pour fidéliser tous les profils joueurs via personnalisation et inclusivité.
 
 Source : https://gamecrio.com/5-game-ui-ux-trends-in-2025-every-developer-should-follow/

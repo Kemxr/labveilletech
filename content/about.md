@@ -4,22 +4,23 @@ date = '2025-03-24T23:00:00-03:00'
 type = 'blank'
 +++
 
-# About
+## À propos 
 
-## Mon domaine : UX/UI Design
-
-Je suis passionné par la conception d’interfaces utilisateur (UI/UX) claires, intuitives et immersives, avec un atrait sur le **gaming** et les applications interactives. Mon objectif est de créer des expériences où l’utilisateur – joueur ou utilisateur d’app – oublie l’interface pour se concentrer sur le plaisir et l’efficacité. Que ce soit un HUD minimaliste qui guide sans distraire, un onboarding personnalisé pour un jeu mobile, ou une app web accessible à tous, je vise des designs qui résolvent des problèmes réels tout en étant esthétiques et engageants.
+Je suis passionné par la conception d’interfaces utilisateur (UI/UX) claires, intuitives et immersives, avec un atrait pour le **gaming** et les applications interactives. Mon objectif est de créer des expériences où l’utilisateur – joueur ou utilisateur d’app – oublie l’interface pour se concentrer sur le plaisir et l’efficacité. Que ce soit un HUD minimaliste qui guide sans distraire, un onboarding personnalisé pour un jeu mobile, ou une app web accessible à tous, je vise des designs qui résolvent des problèmes réels tout en étant esthétiques et engageants.
 
 ## Ce qui me lie à ce domaine : mon Ikigai
 
 Mon parcours professionnel s’appuie sur une réflexion profonde via l’**Ikigai**, ce point d’intersection entre ce que j’aime, ce en quoi je suis bon, ce dont le monde a besoin, et ce pour quoi on peut être payé.
+
+![Ikigai](/labveilletech/images/Ikigai_marc.png)
+
 
 - **Ce que j’aime** : Les jeux vidéo (cinéma, manga, transmission de connaissances, conceptualisation).  
 - **Ce en quoi je suis bon** : Comprendre les besoins utilisateurs et ce qui rend une interface agréable (UI, Design).  
 - **Ce dont le monde a besoin** : Des interfaces simples et intuitives pour tous (profession/vocation).  
 - **Ce qui peut payer** : Conceptualiser des interfaces de jeux ou designer des niveaux (UI/UX Designer).  
 
-**Au croisement** : **Créer des interfaces de jeux vidéo ou d’applications qui offrent la meilleure expérience utilisateur possible**. C’est là que passion gaming, compétences en design et besoins du marché convergent parfaitement.
+**Au croisement** : **Créer des interfaces d’applications qui offrent la meilleure expérience utilisateur possible**. C’est là que passion gaming, compétences en design et besoins du marché convergent.
 
 ## Mes taxonomies : organiser la connaissance UX/UI
 

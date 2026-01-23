@@ -6,6 +6,3 @@ side:
   home:
   - title: 'Pour aller plus loin !'
     content: 'N\''hésite pas à explorer les différentes pages de mon blog pour découvrir plus de contenu intéressant !'
-  single:
-  - title: 'Static Content'
-    content: 'Single pages (a.k.a. blog posts) can also have static content like so!'

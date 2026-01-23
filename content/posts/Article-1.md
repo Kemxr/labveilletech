@@ -16,6 +16,8 @@ La réalité augmentée ne se limite plus au e‑commerce : elle enrichit dés
 
 En formation médicale, des dispositifs comme HoloLens 2 permettent aux chirurgiens de manipuler des hologrammes issus d’IRM avec retour haptique simulant la résistance des tissus. L’interface doit alors rester extrêmement simple, avec une hiérarchie stricte des informations importantes et une latence minimale pour ne pas perturber les gestes, ce qui montre le lien direct entre contraintes techniques et qualité de l’UX.
 
+![AR Illustration](/labveilletech/images/Illustration_UI.png)
+
 ## UX prédictif : anticiper plutôt que réagir
 
 L’UX prédictif utilise les données comportementales et l’IA pour adapter l’interface en temps réel aux besoins probables de chaque utilisateur. En analysant contexte, historique et parcours, le système peut mettre en avant les actions les plus pertinentes, simplifier un écran pour un profil novice ou au contraire révéler des options avancées pour un utilisateur expert.
